@@ -170,7 +170,8 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Demo
 
-Insert gif or link to demo
+## Contributor
+- [Chittiprolu Dakshayani](https://github.com/chittiproludakshayani)
 
 
 ## License
